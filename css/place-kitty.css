@@ -36,7 +36,7 @@
 
 /* Select the image that has an attribute value matching "Kitty 5" (using attribute selector) */
 
- {
+ a [href= "(http://i0.kym-cdn.com/photos/images/original/000/118/087/2468904593_6a7c692ab6.jpg)"{
   position: absolute;
   z-index: 3;
   top: 217px;
